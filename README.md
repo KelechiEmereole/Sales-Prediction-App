@@ -66,13 +66,13 @@ Enhanced my expertise in model evaluation, hyperparameter tuning, and real-world
 
 #### Model Performance Comparison
 
-Model                       	       MAE	           RMSE	      R²
+Model                   |    	       MAE	         |  RMSE	 |   R²
 
-Linear Regression	                   64.40	         81.97	   0.93
+Linear Regression	     |              64.40	       |  81.97	 |  0.93
 
-Decision Tree Regressor (Tuned)	     6.90	           22.58	   0.99
+Decision Tree Regressor (Tuned)	   |  6.90	       |   22.58	 | 0.99
 
-Random Forest Regressor (Tuned)	     30.73	         57.50	   0.96
+Random Forest Regressor (Tuned)	   |  30.73	     |    57.50	   | 0.96
 
 Support Vector Regressor	           63.81	         81.87	   0.93
 
