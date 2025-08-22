@@ -74,11 +74,12 @@ Decision Tree Regressor (Tuned)	   |  6.90	       |   22.58	 | 0.99
 
 Random Forest Regressor (Tuned)	   |  30.73	     |    57.50	   | 0.96
 
-Support Vector Regressor	           63.81	         81.87	   0.93
+Support Vector Regressor	      |     63.81	    |     81.87	  |   0.93
 
-Gradient Boosting Regressor (Tuned)	 5.37	           12.78	   1.00 
+Gradient Boosting Regressor (Tuned)	 |  5.37	      |    12.78	  |  1.00 
 
 ###  Key Business Insights & Recommendations
+
 #### Product Line
 
 Insight: Fashion Accessories led with the highest total sales of ₦62,055.88, followed by Sports and Travel (₦59,979.22) and Home and Lifestyle (₦58,948.28).
