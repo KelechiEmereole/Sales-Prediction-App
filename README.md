@@ -8,21 +8,22 @@ This project builds and deploys a Machine Learning web application that predicts
 
 ### STAR Breakdown
 
-⭐ Situation
+### Situation
 Supermarkets handle large volumes of transactions daily, making it crucial to predict sales accurately. Businesses need insights into sales drivers such as customer demographics, branch location, and product categories to optimize inventory and improve decision-making.
 
-🎯 Task
+### Task
+
 My task was to:
 
-Analyze supermarket sales data.
+* Analyze supermarket sales data.
 
-Build, compare, and evaluate different regression models.
+* Build, compare, and evaluate different regression models.
 
-Deploy the best-performing model into a user-friendly web app using Streamlit.
+* Deploy the best-performing model into a user-friendly web app using Streamlit.
 
-⚙️ Action
+### Action
 
-### Exploratory Data Analysis (EDA):
+#### Exploratory Data Analysis (EDA):
 
 Analyzed sales across gender, branch, city, product line, and customer type.
 
